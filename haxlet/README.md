@@ -6,10 +6,8 @@
  Напишите функцию get_age_difference(), которая принимает два года рождения и возвращает строку 
  с разницей в возрасте в виде The age difference is 11.    
  Пример работы функции:
-
  actual = get_age_difference(2001, 2018)
  print(actual)  # => The age difference is 17
-
 </details>
 
 ---
