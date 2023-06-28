@@ -1,6 +1,6 @@
 <details>
 <summary>
-<b>Два года рождения (<a href="haxlet/get_age_difference.py">get_age_difference.py</a></b>)
+<b>Два года рождения (<a href="[haxlet/get_age_difference.py](https://github.com/Ruzal-Z/tasks/blob/main/haxlet/get_age_difference.py)">get_age_difference.py</a></b>)
 </summary>
  ####Условие: 
  Напишите функцию get_age_difference(), которая принимает два года рождения и возвращает строку 
