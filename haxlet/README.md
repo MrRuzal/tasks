@@ -9,6 +9,7 @@
 		 print(actual)  # => The age difference is 17
 
 </details>
+
 ---
 <details>
 <summary>
