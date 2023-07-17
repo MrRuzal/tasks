@@ -30,7 +30,7 @@
 ---
 <details>
 	<summary>
-	<b>Является ли год високосным. (<a href="https://github.com/Ruzal-Z/tasks/blob/main/haxlet/is_leap_year.py">is_leap_year.py</a></b>)
+	<b>Является ли год високосным (<a href="https://github.com/Ruzal-Z/tasks/blob/main/haxlet/is_leap_year.py">is_leap_year.py</a></b>)
 	</summary>
 	 ####Условие: Реализуйте функцию is_leap_year(), которая определяет, является ли год високосным. 
 	 Год будет високосным, если он делится без остатка на 400, или он одновременно делится без остатка
